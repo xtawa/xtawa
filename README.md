@@ -34,7 +34,7 @@ Core team of [Ybhsoft Innovation 燧标创新](https://team.xtyin.com)
 I also maintaining a blog at [Hi,Co1sini](https://blog.xtyin.com) and [YanLuo洛's Blog](https://xtawa.top)
 
 ## Contact ☎️
-You can find me at:
+You can find me on:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Yanluokeke) @ Yanluokeke
 
