@@ -25,5 +25,7 @@
 
 </div>
 
+> Written by Xihao Zhang & U^^^ M^^^^
+
 ## Contact
 [E-Mail](mailto:zeromostia@gmail.com)
