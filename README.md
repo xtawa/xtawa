@@ -27,6 +27,7 @@
 
 
 ## Contact
-ChatGPT Open source email:coisiniyin@gmail.com
+
 [E-Mail](mailto:zeromostia@gmail.com)
+
 [Blog](https://blog.underflo.ink)
